@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Yokanisha](https://github.com/Yokanisha)
 
-- 💬 Ask me about **Mage-Ai, dbt and creating pipelines**
+- 💬 Ask me about **Mage-Ai, dbt and google cloud platform**
 
 - 📫 How to reach me **fatih.oezkan1993@web.de**
 
