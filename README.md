@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Generated Amusement Park Project](https://github.com/Yokanisha/generatedAmusementPark)
 
-- 🌱 I’m currently learning **more about Kafka**
+- 🌱 I’m currently learning **more about Apache Spark**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Yokanisha](https://github.com/Yokanisha)
 
