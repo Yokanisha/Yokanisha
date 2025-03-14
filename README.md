@@ -3,7 +3,7 @@
 
 - 🔭 My last project [Generated Amusement Park Project](https://github.com/Yokanisha/generatedAmusementPark)
 
-- 🌱 I’m currently learning **more about Azure Data Factory**
+- 🌱 I’m currently learning more about **Azure Data Factory**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Yokanisha](https://github.com/Yokanisha)
 
