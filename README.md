@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate Data Engineer from Germany</h3>
 
-- 🔭 I’m currently working on [Generated Amusement Park Project](https://github.com/Yokanisha/generatedAmusementPark)
+- 🔭 My last project [Generated Amusement Park Project](https://github.com/Yokanisha/generatedAmusementPark)
 
-- 🌱 I’m currently learning **more about Apache Spark**
+- 🌱 I’m currently learning **more about Azure Data Factory**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Yokanisha](https://github.com/Yokanisha)
 
-- 💬 Ask me about **Mage-Ai, dbt and google cloud platform**
+- 💬 Ask me about **GCP, Azure and ETL-Pipelines**
 
 - 📫 How to reach me **fatih.oezkan1993@web.de**
 
-- ⚡ Fun fact **I love turkish black tea and chinese green tea**
+- ⚡ Fun fact **I love turkish black tea, chinese green tea and german Schnitzel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
